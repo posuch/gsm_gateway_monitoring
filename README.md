@@ -45,9 +45,11 @@ Returns number of SMS messages sent with error within last 24h. Error occurs whe
 
 **Temp**\
 \
-Returns last value of Temperature (in °C) from internal DHT22 sensor. Requires sensor to be enabled. .1.3.6.1.4.1.8072.1.3.2.4.1.2.4.84.101.109.112.1
+Returns last value of Temperature (in °C) from internal DHT22 sensor. Requires sensor to be enabled.
+.1.3.6.1.4.1.8072.1.3.2.4.1.2.4.84.101.109.112.1
 
 **Humidity** \
 \
 Returns last value of Humidity (in %) from internal DHT22 sensor. Requires sensor to be enabled.
+
 .1.3.6.1.4.1.8072.1.3.2.3.1.2.8.72.117.109.105.100.105.116.121
