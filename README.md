@@ -7,6 +7,7 @@ based on snmp - see OID from documentation
 ![triggers](https://user-images.githubusercontent.com/52492965/62545415-f26bcb80-b861-11e9-980e-3077c5c2a283.PNG)
 
 
+
 **GSM_Signal** \
 \
 Returns GSM/3G signal strength in percent. Value range: 0-100. If modem is disconnected from GSM/3G network GSM_Signal returns 0.
